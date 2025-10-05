@@ -135,7 +135,6 @@ const portfolioData = {
       repoUrl: "https://github.com/MohamedAshraf-a/Mealify",
       liveUrl: "https://mohamedashraf-a.github.io/Mealify/",
     },
-    // 🔥 Added Repositories from GitHub list
     {
       title: "Register",
       description: "A CSS project focused on building registration forms.",
@@ -184,6 +183,14 @@ const portfolioData = {
       tags: ["HTML", "CSS"],
       repoUrl: "https://github.com/MohamedAshraf-a/palestine-slids",
       liveUrl: "https://mohamedashraf-a.github.io/palestine-slids/",
+    },
+    // ✅ Added MA_Dashboard
+    {
+      title: "MA Dashboard",
+      description: "A professional Next.js dashboard with dark/light mode and animations.",
+      tags: ["Next.js", "React", "CSS", "JavaScript"],
+      repoUrl: "https://github.com/MohamedAshraf-a/MA_Dashboard",
+      liveUrl: "https://ma-dashboard-neon.vercel.app/",
     },
   ],
 };
